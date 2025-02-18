@@ -1,5 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
+    <h1>Hola, soy Pablo López</h1>
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,redux,nodejs,mongo,figma,github,vite,aws," />
   </a>
 </p>
